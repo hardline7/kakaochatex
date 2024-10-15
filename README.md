@@ -12,6 +12,9 @@ KakaoTalk Chat Exporter는 카카오톡 채팅방의 대화 내용을 자동으�
 - [라이선스](#라이선스)
 - [기여](#기여)
 
+![image](https://github.com/user-attachments/assets/e0f15405-55a1-405b-966e-ab6589a449da)
+
+
 ## 주요 기능
 
 1. **자동 채팅 내보내기**: 사용자가 설정한 시간 간격으로 카카오톡 채팅 내용을 자동으로 내보내기 합니다.
